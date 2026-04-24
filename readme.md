@@ -1,3 +1,5 @@
+# Python-Tickers-01
+
 Application script is main.py, coded in Python 3.11.2
 
 
